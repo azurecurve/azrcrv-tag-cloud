@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tag Cloud\n"
+"POT-Creation-Date: 2019-02-24 18:32+0000\n"
+"PO-Revision-Date: 2019-02-24 18:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: https://translate.azurecurve.co.uk/\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: azrcrv-tag-cloud.php\n"
+
+#: azrcrv-tag-cloud.php:130
+msgid "Settings"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:147 azrcrv-tag-cloud.php:370
+msgid "Tag Cloud Settings"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:148 azrcrv-tag-cloud.php:371
+msgid "Tag Cloud"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:162
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: azrcrv-tag-cloud.php:173
+msgid "Settings have been saved."
+msgstr ""
+
+#: azrcrv-tag-cloud.php:185
+msgid "Include/Exclude Tags?"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:187
+msgid "Include"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:188
+msgid "Exclude"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:190
+msgid ""
+"Flag whether marked tags should be included or excluded from the tag cloud"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:193
+msgid "Tags to include/exclude"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:207
+msgid "Mark the tags you want to include/exclude from the tag cloud"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:212
+msgid "Use Network Settings"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:213
+msgid "Use Network Settings? The settings below will be ignored"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:218 azrcrv-tag-cloud.php:405
+msgid "Smallest Size"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:220 azrcrv-tag-cloud.php:407
+msgid "The text size of the tag with the lowest count value"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:223 azrcrv-tag-cloud.php:410
+msgid "Largest Size"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:225 azrcrv-tag-cloud.php:412
+msgid "The text size of the tag with the highest count value"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:228 azrcrv-tag-cloud.php:415
+msgid "Unit"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:235 azrcrv-tag-cloud.php:422
+msgid "Unit of measure as pertains to the smallest and largest values"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:238 azrcrv-tag-cloud.php:425
+msgid "Number Of Tags"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:240 azrcrv-tag-cloud.php:427
+msgid "The number of actual tags to display in the cloud"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:243 azrcrv-tag-cloud.php:430
+msgid "Format"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:245 azrcrv-tag-cloud.php:432
+msgid "Flat"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:246 azrcrv-tag-cloud.php:433
+msgid "List"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:248 azrcrv-tag-cloud.php:435
+msgid "Format of the cloud display"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:251 azrcrv-tag-cloud.php:438
+msgid "Order By"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:253 azrcrv-tag-cloud.php:440
+msgid "Name"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:254 azrcrv-tag-cloud.php:441
+msgid "Count"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:256 azrcrv-tag-cloud.php:443
+msgid "Order of the tags"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:259 azrcrv-tag-cloud.php:446
+msgid "Order"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:261 azrcrv-tag-cloud.php:448
+msgid "Ascending"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:262 azrcrv-tag-cloud.php:449
+msgid "Descending"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:263 azrcrv-tag-cloud.php:450
+msgid "Random"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:265 azrcrv-tag-cloud.php:452
+msgid "Sort order"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:268
+msgid "Plugin Widget"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:269
+#, php-format
+msgid ""
+"Once you've saved the settings, make sure you place the %s widget in a "
+"widget area"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:289 azrcrv-tag-cloud.php:387 azrcrv-tag-cloud.php:471
+msgid "You do not have permissions to perform this action"
+msgstr ""
+
+#: azrcrv-tag-cloud.php:552
+msgid "A customizable cloud of your most used tags."
+msgstr ""
