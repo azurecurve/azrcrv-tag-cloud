@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Displays a tag cloud with easy control of settings and exclusion of tags from the cloud.
 
 == Description ==
-The plugin integrates with the standard WordPress tag cloud, but allows tags to be excluded and easy control of other settings such as min and max font sizes, the sort order and number of tags to include. 
+The plugin integrates with the standard ClassicPress tag cloud, but allows tags to be excluded and easy control of other settings such as min and max font sizes, the sort order and number of tags to include. 
 
 This plugin is multisite compatible; each site can be set to use network settings or locally defined ones.
 
