@@ -3,7 +3,7 @@
  * ------------------------------------------------------------------------------
  * Plugin Name: Tag Cloud
  * Description: Displays a tag cloud with easy control of settings and exclusion of tags from the cloud.
- * Version: 1.1.0
+ * Version: 1.1.1
  * Author: azurecurve
  * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
  * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/tag-cloud
@@ -60,7 +60,7 @@ add_shortcode('shortcode', 'shortcode_function');
  */
 function azrcrv_tc_load_languages() {
     $plugin_rel_path = basename(dirname(__FILE__)).'/languages';
-    load_plugin_textdomain('azrcrv-tc', false, $plugin_rel_path);
+    load_plugin_textdomain('tag-cloud', false, $plugin_rel_path);
 }
 
 /**
