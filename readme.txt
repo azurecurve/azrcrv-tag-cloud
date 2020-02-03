@@ -51,7 +51,7 @@ This plugin is developed for ClassicPress, but will likely work on WordPress.
 # Changelog
 
 ### [Version 1.1.1](https://github.com/azurecurve/azrcrv-tag-cloud/tree/v1.1.1)
- * Remove duplicate load language function.
+ * Fix bug with incorrect language load text domain.
 
 ### [Version 1.1.0](https://github.com/azurecurve/azrcrv-tag-cloud/tree/v1.1.0)
  * Add integration with Update Manager for automatic updates.
