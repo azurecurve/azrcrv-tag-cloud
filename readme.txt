@@ -1,12 +1,12 @@
 === Tag Cloud ===
 
 Description:	Displays a tag cloud with easy control of settings and exclusion of tags from the cloud.
-Version:		1.1.1
+Version:		1.1.2
 Tags:			tag, tags, cloud, tag cloud, widget
 Author:			azurecurve
 Author URI:		https://development.azurecurve.co.uk/
 Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/tag-cloud/
-Download link:	https://github.com/azurecurve/azrcrv-tag-cloud/releases/download/v1.1.0/azrcrv-tag-cloud.zip
+Download link:	https://github.com/azurecurve/azrcrv-tag-cloud/releases/download/v1.1.2/azrcrv-tag-cloud.zip
 Donate link:	https://development.azurecurve.co.uk/support-development/
 Requires PHP:	5.6
 Requires:		1.0.0
@@ -49,6 +49,11 @@ This plugin is developed for ClassicPress, but will likely work on WordPress.
 == Changelog ==
 
 # Changelog
+
+### [Version 1.1.2](https://github.com/azurecurve/azrcrv-tag-cloud/releases/tag/v1.1.2)
+ * Update Update Manager class to v2.0.0.
+ * Update action link.
+ * Update azurecurve menu icon with compressed image.
 
 ### [Version 1.1.1](https://github.com/azurecurve/azrcrv-tag-cloud/releases/tag/v1.1.1)
  * Fix bug with incorrect language load text domain.
