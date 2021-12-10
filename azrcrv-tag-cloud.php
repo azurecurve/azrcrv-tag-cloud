@@ -3,7 +3,7 @@
  * ------------------------------------------------------------------------------
  * Plugin Name: Tag Cloud
  * Description: Displays a tag cloud with easy control of settings and exclusion of tags from the cloud.
- * Version: 1.2.1
+ * Version: 1.2.2
  * Author: azurecurve
  * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
  * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/tag-cloud/
