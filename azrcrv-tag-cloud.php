@@ -3,7 +3,7 @@
  * ------------------------------------------------------------------------------
  * Plugin Name: Tag Cloud
  * Description: Displays a tag cloud with easy control of settings and exclusion of tags from the cloud.
- * Version: 1.2.3
+ * Version: 1.2.4
  * Author: azurecurve
  * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
  * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/tag-cloud/
@@ -205,8 +205,8 @@ function azrcrv_tc_display_options(){
 							$query = "SELECT t.term_id AS `term_id`, t.name AS `name` FROM $wpdb->term_taxonomy tt INNER JOIN $wpdb->terms t On t.term_id = tt.term_id WHERE tt.taxonomy = 'post_tag' ORDER BY t.name";
 							$_query_result = $wpdb->get_results($query);
 							foreach($_query_result as $data){
-								if (isset($options['category'][$data->term_id])){
-									$selected_tag = checked('1', $options['category'][$data->term_id]);
+								if (isset($options['tag'][$data->term_id])){
+									$selected_tag = checked('1', $options['tag'][$data->term_id], false);
 								}else{
 									$selected_tag = '';
 								}
