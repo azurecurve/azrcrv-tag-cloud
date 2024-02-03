@@ -1,14 +1,18 @@
 <?php
 /**
  * ------------------------------------------------------------------------------
- * Plugin Name: Tag Cloud
- * Description: Displays a tag cloud with easy control of settings and exclusion of tags from the cloud.
- * Version: 1.2.5
- * Author: azurecurve
- * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
- * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/tag-cloud/
- * Text Domain: tag-cloud
- * Domain Path: /languages
+ * Plugin Name:		Tag Cloud
+ * Description:		Displays a tag cloud with easy control of settings and exclusion of tags from the cloud.
+ * Version:			1.2.6
+ * Requires CP:		1.0
+ * Author:			azurecurve
+ * Author URI:		https://development.azurecurve.co.uk/classicpress-plugins/
+ * Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/tag-cloud/
+ * Donate link:		https://development.azurecurve.co.uk/support-development/
+ * Text Domain:		tag-cloud
+ * Domain Path:		/languages
+ * License:			GPLv2 or later
+ * License URI:		http://www.gnu.org/licenses/gpl-2.0.html
  * ------------------------------------------------------------------------------
  * This is free software released under the terms of the General Public License,
  * version 2, or later. It is distributed WITHOUT ANY WARRANTY; without even the
