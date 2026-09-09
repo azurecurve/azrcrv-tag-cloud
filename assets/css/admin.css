@@ -1,0 +1,20 @@
+.azrcrv-tc-wrap .form-table th {
+	width: 220px;
+}
+
+.azrcrv-tc-tab-panel {
+	margin-top: 15px;
+}
+
+/*
+	tag include/exclude scrollbox
+----------------------------------------------- */
+div.azrcrv-tc-scrollbox {
+	width: 400px;
+	max-width: 100%;
+	height: 300px;
+	overflow-y: scroll;
+	border: 1px solid #dcdcde;
+	padding: 8px;
+	background: #fff;
+}

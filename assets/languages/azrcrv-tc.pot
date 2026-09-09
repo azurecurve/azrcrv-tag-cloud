@@ -1,0 +1,185 @@
+# Copyright (C) 2026 azurecurve
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tag Cloud 2.0.0\n"
+"Report-Msgid-Bugs-To: https://development.azurecurve.co.uk/support-development/\n"
+"POT-Creation-Date: 2026-07-20 00:00+0000\n"
+"PO-Revision-Date: 2026-07-20 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: translate@azurecurve.co.uk\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: manual\n"
+"X-Domain: azrcrv-tc\n"
+
+msgid "Support"
+msgstr ""
+
+msgid "You can help support the development of our free plugins by donating a small amount of money."
+msgstr ""
+
+msgid "Instructions"
+msgstr ""
+
+msgid "On the Settings tab, choose whether the tags you mark below should be included in the cloud (only they will show) or excluded from it (everything else will show)."
+msgstr ""
+
+msgid "Tick the tags you want to include or exclude in the scrollable list."
+msgstr ""
+
+msgid "Set the smallest and largest text size, and the unit (points, pixels, ems, or percent) they are measured in."
+msgstr ""
+
+msgid "Choose how many tags to display, how they should be formatted (a flat cloud or a list), and how they should be ordered."
+msgstr ""
+
+msgid "Save Changes, then add the \"Tag Cloud by azurecurve\" widget to a widget area from Appearance > Widgets."
+msgstr ""
+
+msgid "Include/Exclude Tags?"
+msgstr ""
+
+msgid "Include"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Flag whether marked tags should be included or excluded from the tag cloud."
+msgstr ""
+
+msgid "Tags to Include/Exclude"
+msgstr ""
+
+msgid "Mark the tags you want to include in, or exclude from, the tag cloud."
+msgstr ""
+
+msgid "Smallest Size"
+msgstr ""
+
+msgid "The text size of the tag with the lowest count value."
+msgstr ""
+
+msgid "Largest Size"
+msgstr ""
+
+msgid "The text size of the tag with the highest count value."
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Unit of measure for the smallest and largest sizes above."
+msgstr ""
+
+msgid "Number of Tags"
+msgstr ""
+
+msgid "The number of tags to display in the cloud."
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "Flat"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Format of the cloud display."
+msgstr ""
+
+msgid "Order By"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Count"
+msgstr ""
+
+msgid "Order of the tags."
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Sort order."
+msgstr ""
+
+msgid "Plugin Widget"
+msgstr ""
+
+msgid "Once you've saved the settings, make sure you place the %s widget in a widget area."
+msgstr ""
+
+msgid "Tag Cloud by azurecurve"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Active Plugins"
+msgstr ""
+
+msgid "%1$s was one of the first plugin developers to start developing for ClassicPress; all plugins are available from %2$s and are integrated with the %3$s plugin for fully integrated, no hassle, updates."
+msgstr ""
+
+msgid "The %s plugins active on your site are:"
+msgstr ""
+
+msgid "Other Available Plugins"
+msgstr ""
+
+msgid "Congratulations! You're using all of the %s plugins."
+msgstr ""
+
+msgid "The other plugins available from %s are:"
+msgstr ""
+
+msgid "Other Plugins"
+msgstr ""
+
+msgid "Other plugins available from %s, which you are not using, are:"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Tag Cloud Settings"
+msgstr ""
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Security check failed - please try again."
+msgstr ""
+
+msgid "You do not have permissions to perform this action."
+msgstr ""
+
+msgid "A customizable cloud of your most used tags."
+msgstr ""
+
+msgid "Widget Title:"
+msgstr ""
